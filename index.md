@@ -90,13 +90,12 @@
                         É por isso que alguns estudiosos já os definiram como <b>pilares</b> dos sistemas sociotécnicos (o contexto maior que participam).
                         Softwares orientam a forma que consumimos, a forma que nos relacionamos e a forma que executamos tarefas.
                         Além destes efeitos mais óbvios, há ainda <b>efeitos de longo alcance</b>.
-                        As implicações e consequências do softwares não são apenas funcionais e econômicas, mas também <b>morais e éticas</b>.
-                        Esses impactos são determinado pela forma que os analistas entendem e definem os requisitos do software.
+                        As implicações e consequências dos softwares não são apenas funcionais e econômicas, mas também <b>morais e éticas</b>.
+                        Esses efeitos são determinados pela forma que os analistas entendem e definem os requisitos do software.
                         Identificar os potenciais impactos durante concepção do software requer <b>analisar o sistema como um todo</b>. <br>
                         Para isso o framework <b>Olhar Para o Sistema</b> foi criado!
                         <br>
                         <img src="assets/img/inoutblank.jpg" width="40%">
-
           </p>
         </div>
       </div>
