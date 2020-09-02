@@ -89,7 +89,7 @@
                         As implicações não são apenas comportamentais e econômicas, mas também <b>morais e éticas</b>.
                         Todos os efeitos do software são determinados pela forma que os analistas entendem e definem os requisitos.
                         <br><br>Por isso é importante que múltiplas perspectivas sejam exploradas e os potenciais impactos do software sejam identificados e discutidos.
-                        Isso requer <b>analisar o sistema como um todo</b>.Para isso o framework <b>Olhar Para o Sistema</b> foi criado!
+                        Isso requer <b>analisar o sistema como um todo</b>. Para isso o framework <b>Olhar Para o Sistema</b> foi criado!
                         <br>
                         <!--<img src="assets/img/inoutblank.jpg" width="40%">-->
           </p>
