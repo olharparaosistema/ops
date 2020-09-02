@@ -80,14 +80,16 @@
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title" text-align="left">
+        <div class="section-title">
           <h2>Contexto</h2>
-          <p>           Softwares são intrínsecos ao mundo e à sociedade. Frequentemente dependemos de software para fazer nosso trabalho, ir a lugares, nos comunicar, nos informar, e por aí vai.
-                        É por isso que alguns estudiosos já os definiram como <b>pilares</b> dos sistemas sociotécnicos (o contexto maior que participam).
-                        <br><br>Além de "resolverem problemas" e orientarem grande parte do nosso comportamento, softwares ainda introduzem no mundo <b>efeitos de longo alcance</b>.
-                        As implicações e consequências dos softwares não são apenas comportamentais e econômicas, mas também <b>morais e éticas</b>.
-                        Esses efeitos do software (e todos os outros) são determinados pela forma que os analistas entendem e definem os requisitos.
-                        <br><br>Identificar os potenciais impactos durante concepção do software requer <b>analisar o sistema como um todo</b>. <br>
+          <p style="text-align:left;">
+                        Softwares são intrínsecos ao mundo e à sociedade. Frequentemente dependemos deles para fazer nosso trabalho, ir a lugares, nos comunicar, nos informar, e por aí vai.
+                        É por isso que alguns estudiosos já consideram que softwares são <b>pilares</b> dos sistemas sociotécnicos (o contexto maior que participam).
+                        <br><br>Além de "resolverem problemas" e orientarem parte do nosso comportamento, softwares ainda introduzem no mundo implicações e consequências, incluindo <b>efeitos de longo alcance</b>.
+                        As implicações não são apenas comportamentais e econômicas, mas também <b>morais e éticas</b>.
+                        Todos os efeitos do software são determinados pela forma que os analistas entendem e definem os requisitos.
+                        <br><br>Por isso é importante que múltiplas perspectivas sejam exploradas e os potenciais impactos do software sejam identificados e discutidos.
+                        Isso requer <b>analisar o sistema como um todo</b>. <br>
                         Para isso o framework <b>Olhar Para o Sistema</b> foi criado!
                         <br>
                         <!--<img src="assets/img/inoutblank.jpg" width="40%">-->
@@ -110,7 +112,7 @@
               <div class="col-lg-3">
                 <img src="assets/img/indig.png" width='50%'> <br><br>
               </div>
-              <div class="col-lg-9 pt-4 pt-lg-0 content">
+              <div class="col-lg-9 pt-4 pt-lg-0 content" style="text-align:left;">
                 <!-- <h3>UI/UX Designer &amp; Web Developer.</h3> -->
 
                 <p>A visão sistêmica é essencial para entendermos o contexto da solução de software e calcularmos potenciais impactos.
@@ -144,7 +146,6 @@
               </div>
             </div>
 
-<br><br>
 
             <div class="row">
               <div class="col-lg-3">
@@ -159,11 +160,11 @@
               </div>
             </div>
 
-<br><br>
+<br>
 
             <div class="row">
               <div class="col-lg-10">
-                <p> O <b>Olhar Para o Sistema</b> tem o objetivo de identificar os potenciais impactos sistêmicos do software em uma abordagem ágil com duração de um dia (ou menos).
+                <p style="text-align:left;"> O <b>Olhar Para o Sistema</b> tem o objetivo de identificar os potenciais impactos sistêmicos do software em uma abordagem ágil com duração de um dia (ou menos).
                 O momento ideal para execução do framework é durante a definição dos requisitos ou na validação.
 </p>
               </div>
@@ -310,7 +311,6 @@
               <img src='assets/img/raisinghands.jpg' width=100%>
 
             </div>
-
           </div>
 
           <div class="col-lg-8 mt-5 mt-lg-0">
@@ -318,10 +318,7 @@
             <div class="section-title">
               <h2>Feedback</h2>
             </div>
-
-            Acesse o <a href="https://forms.gle/tWafutwxhV9Mxywh9" target="_blank">questionário</a> para avaliar o framework <b>Olhar Para o Sistema</b>.
-
-
+            <p style="text-align:center;">Acesse o <a href="https://forms.gle/tWafutwxhV9Mxywh9" target="_blank">questionário</a> para avaliar o framework <b>Olhar Para o Sistema</b>.</p>
           </div>
 
         </div>
