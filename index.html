@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 
 <head>
 
@@ -69,7 +69,7 @@
         <span class="after-after-dotted">S</span> -->
 
       <h1>um Olhar Para o Sistema</h1>
-      <p>Um framework para Engenharia de Requisitos <span class="typed" data-typed-items="Sistêmica, Sustentável, Consciente"></span></p>
+      <p>Um framework para Engenharia de Requisitos <span class="typed" data-typed-items="Sistêmica, Consciente, Sustentável"></span></p>
 
     </div>
   </section><!-- End Hero -->
@@ -82,16 +82,15 @@
 
         <div class="section-title" text-align="left">
           <h2>Contexto</h2>
-          <p>           Softwares são intrínsecos ao mundo e à sociedade atual e, muitas vezes, dependemos dele para realizar tarefas incrivelmente simples.
+          <p>           Softwares são intrínsecos ao mundo e à sociedade. Frequentemente dependemos de software para fazer nosso trabalho, ir a lugares, nos comunicar, nos informar, e por aí vai.
                         É por isso que alguns estudiosos já os definiram como <b>pilares</b> dos sistemas sociotécnicos (o contexto maior que participam).
-                        Softwares orientam a forma que consumimos, a forma que nos relacionamos e a forma que executamos tarefas.
-                        Além destes efeitos mais óbvios, há ainda <b>efeitos de longo alcance</b>.
-                        As implicações e consequências dos softwares não são apenas funcionais e econômicas, mas também <b>morais e éticas</b>.
-                        Esses efeitos são determinados pela forma que os analistas entendem e definem os requisitos do software.
-                        Identificar os potenciais impactos durante concepção do software requer <b>analisar o sistema como um todo</b>. <br>
+                        <br><br>Além de "resolverem problemas" e orientarem grande parte do nosso comportamento, softwares ainda introduzem no mundo <b>efeitos de longo alcance</b>.
+                        As implicações e consequências dos softwares não são apenas comportamentais e econômicas, mas também <b>morais e éticas</b>.
+                        Esses efeitos do software (e todos os outros) são determinados pela forma que os analistas entendem e definem os requisitos.
+                        <br><br>Identificar os potenciais impactos durante concepção do software requer <b>analisar o sistema como um todo</b>. <br>
                         Para isso o framework <b>Olhar Para o Sistema</b> foi criado!
                         <br>
-                        <img src="assets/img/inoutblank.jpg" width="40%">
+                        <!--<img src="assets/img/inoutblank.jpg" width="40%">-->
           </p>
         </div>
       </div>
@@ -134,10 +133,10 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i> - Thinking in systems: A primer <br><br>
 
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  O campo de Systems Thinking é composto por uma quantidade grande de conceitos, desde dinâmica de sistemas (estudo de relacionamentos causa-efeito e atrasos em sistemas complexos)
-                  até modelos mentais (aquelas profundas crenças, premissas, histórias e figuras de como acreditamos que o mundo funciona).
+                  Systems Thinking pode ser entendida como uma linguagem - uma linguagem visual que nos ajuda a entender e
+                  discutir sobre o mundo de uma forma diferente de nossa linguagem usual, que não é acurada para explicar complexidade.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                   - The Systems Thinking Playbook <br>
+                   - Systems Thinking for social change <br>
 
               </div>
               <div class="col-lg-3 pt-4 pt-lg-0 content">
@@ -163,18 +162,15 @@
 <br><br>
 
             <div class="row">
-              <div class="col-lg-9">
-                <p> Com a prática, todos os analistas participantes podem (e provavelmente irão naturalmente) se tornar systems thinkers, que facilita as análises sobre o mundo real.
-                  O <b>Olhar Para o Sistema</b> tem o objetivo de identificar os potenciais impactos sistêmicos do software em uma abordagem ágil com duração de um dia (ou menos).
+              <div class="col-lg-10">
+                <p> O <b>Olhar Para o Sistema</b> tem o objetivo de identificar os potenciais impactos sistêmicos do software em uma abordagem ágil com duração de um dia (ou menos).
                 O momento ideal para execução do framework é durante a definição dos requisitos ou na validação.
 </p>
               </div>
-              <div class="col-lg-3 pt-4 pt-lg-0 content">
+              <div class="col-lg-2 pt-4 pt-lg-0 content">
                 <img src="assets/img/4men.jpg" width='85%'>
               </div>
             </div>
-
-
           </div>
 
         </div>
