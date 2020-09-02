@@ -337,7 +337,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        Framework <b>Olhar para o Sistema</b>
+        Framework <b>Olhar para o Sistema</b> • 2020
       </div>
       <div class="credits">
       </div>
