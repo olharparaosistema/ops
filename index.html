@@ -231,7 +231,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                     <div class="icon-box">
-                        <img src="assets/img/mapa.jpg" height="150">
+                        <img src="assets/img/Binoculars.jpg" height="150">
                       <h4>Inclusão do software</h4>
                       <!--<p style="color:black">Subtitle</p>-->
                   </div>
