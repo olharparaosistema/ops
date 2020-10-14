@@ -263,7 +263,7 @@
                 <div class="portfolio-wrap">
                     <div class="icon-box">
                         <img src="assets/img/discussao.jpg" height="150">
-                      <h4>Discussão e Análise</h4>
+                      <h4>Análise sistêmica</h4>
                       <!--<p style="color:black">Subtitle</p>-->
                   </div>
                   <div class="portfolio-info">
