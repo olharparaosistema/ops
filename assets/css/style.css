@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #00b2bf;
+  color: ##2eff9a;
 }
 
 a:hover {
-  color: #00b2bf;
+  color: #2eff9a;
   text-decoration: none;
 }
 
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #00b2bf;
+  background: #2eff9a;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #00b2bf;
+  background: #2eff9a;
   transition: background 0.2s ease-in-out;
 }
 
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #00b2bf;
+  border: 6px solid #2eff9a;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   color: #fff;
-  background: #00b2bf;
+  background: #2eff9a;
 }
 
 .nav-menu a:hover span, .nav-menu .active > a span, .nav-menu li:hover > a span {
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #2eff9a;
 }
 
 .mobile-nav-active {
@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #00b2bf;
+  color: #2eff9a;
 }
 
 /*--------------------------------------------------------------
@@ -310,14 +310,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #45505b;
+  color: #2eff9a;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
 }
 
 #hero .social-links a:hover {
-  color: #00b2bf;
+  color: #2eff9a;
 }
 
 @media (max-width: 992px) {
@@ -374,7 +374,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #00b2bf;
+  background: #2eff9a;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -404,7 +404,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #00b2bf;
+  color: #2eff9a;
 }
 
 .about .content p:last-child {
@@ -429,7 +429,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #00b2bf;
+  background: #2eff9a;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -465,7 +465,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Recursive", sans-serif;
-  color: #45505b;
+  color: #2eff9a;
 }
 
 .skills .progress .skill .val {
@@ -474,14 +474,14 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #f2f3f5;
+  background: #2eff9a;
 }
 
 .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #00b2bf;
+  background-color: #2eff9a;
 }
 
 /*--------------------------------------------------------------
@@ -492,13 +492,13 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #45505b;
+  color: #2eff9a;
 }
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #00b2bf;
+  border-left: 2px solid #2eff9a;
   position: relative;
 }
 
@@ -508,13 +508,13 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Recursive", sans-serif;
-  color: #00b2bf;
+  color: #2eff9a;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: #2eff9a;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -542,7 +542,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #00b2bf;
+  border: 2px solid #2eff9a;
 }
 
 /*--------------------------------------------------------------
@@ -576,7 +576,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #00b2bf;
+  color: #2eff9a;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -650,12 +650,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #45505b;
+  color: #2eff9a;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #45505b;
+  color: #2eff9a;
   font-size: 14px;
   text-transform: uppercase;
   padding: 0;
@@ -668,7 +668,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #45505b;
+  color: #2eff9a;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
@@ -676,7 +676,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #2eff9a;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -903,7 +903,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #00b2bf !important;
+  background-color: #2eff9a !important;
 }
 
 @media (min-width: 992px) {
@@ -922,7 +922,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #00b2bf;
+  color: #2eff9a;
   float: left;
   width: 44px;
   height: 44px;
@@ -939,14 +939,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #45505b;
+  color: #2eff9a;
 }
 
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #728394;
+  color: #2eff9a;
 }
 
 .contact .info .email, .contact .info .phone {
@@ -954,7 +954,7 @@ section {
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #00b2bf;
+  background: #2eff9a;
   color: #fff;
 }
 
@@ -1032,7 +1032,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #00b2bf;
+  background: #2eff9a;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1041,7 +1041,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #00b2bf;
+  background: #2eff9a;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1091,7 +1091,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #00b2bf !important;
+  background-color: #2eff9a !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1129,7 +1129,7 @@ section {
   font-size:26px;
   font-family: "Zilla Slab";
   font-style: italic;
-  color: #00b2bf;
+  color: #2eff9a;
 }
 
 .concept-title {
@@ -1143,7 +1143,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #f7f8f9;
-  color: #45505b;
+  color: #2eff9a;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
@@ -1172,7 +1172,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #00b2bf;
+  background: #2eff9a;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1185,7 +1185,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #00b2bf;
+  background: #2eff9a;
   color: #fff;
   text-decoration: none;
 }

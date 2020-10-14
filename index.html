@@ -54,7 +54,7 @@
         <li><a href="#about"><i class="bx bx-hive"></i> <span>Contexto</span></a></li>
         <li><a href="#resume"><i class="bx bx-loader-circle"></i> <span>Systems Thinking</span></a></li>
         <!--<li><a href="#portfolio"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>-->
-        <li><a href="#services"><i class="bx bx-grid-alt"></i> <span>Executando</span></a></li>
+        <li><a href="#services"><i class="bx bx-grid-alt"></i> <span>Execução</span></a></li>
         <li><a href="#contact"><i class="bx bx-user-voice"></i> <span>Feedback</span></a></li>
       </ul>
     </nav><!-- .nav-menu -->
@@ -164,8 +164,9 @@
             <div class="row">
               <div class="col-lg-10">
                 <p style="text-align:left;"> O <b>Olhar Para o Sistema</b> tem o objetivo de identificar os potenciais impactos sistêmicos do software em uma abordagem ágil com duração de um dia (ou menos).
-                O momento ideal para execução do framework é durante a definição dos requisitos ou na validação.
-</p>
+                O momento ideal para execução do framework é durante a definição dos requisitos ou na validação.</p>
+                <br> <p>Veja o guia de execução abaixo para entender como iremos chegar à análise sistêmica partindo dos requisitos! O exemplo escolhido foi do software Airbnb, que
+                tornou-se um exemplo clássico de desequilíbrio sistêmico.</p>
               </div>
               <div class="col-lg-2 pt-4 pt-lg-0 content">
                 <img src="assets/img/4men.jpg" width='85%'>
@@ -194,52 +195,55 @@
 
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <a href="fronteiras.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 1">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                     <div class="icon-box">
-                        <img src="assets/img/conscientizacao.jpg" height="150">
-                      <h4>Conscientização</h4>
-                      <p style="color:black">Por que estamos aqui?</p>
+                        <img src="assets/img/boundary.png" height="150">
+                      <h4>Definição de fronteiras</h4>
+                      <!--<p style="color:black">Subtitle</p>-->
                   </div>
                   <div class="portfolio-info">
                     <div class="portfolio-links">
-                      <a href="conscientizacao.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 1"><i class="bx bx-plus"></i></a>
+                      <i class="bx bx-plus"></i>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div></a>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <a href="modelagem.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 2">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                     <div class="icon-box">
                         <img src="assets/img/mapa.jpg" height="150">
-                      <h4>Construção do mapa</h4>
-                      <p style="color:black">Palavras não são suficientes!</p>
+                      <h4>Modelagem DSRP</h4>
+                      <!--<p style="color:black">Subtitle</p>-->
                   </div>
                   <div class="portfolio-info">
                     <div class="portfolio-links">
-                      <a href="mapa.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 2"><i class="bx bx-plus"></i></a>
+                      <i class="bx bx-plus"></i>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div></a>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <a href="inclusao.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 3">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                     <div class="icon-box">
-                        <img src="assets/img/requisitos.jpg" height="150">
-                      <h4>Inclusão de requisitos</h4>
-                      <p style="color:black">Simulando como vai ser com o software</p>
+                        <img src="assets/img/binoculars.jpg" height="150">
+                      <h4>Inclusão do software</h4>
+                      <!--<p style="color:black">Subtitle</p>-->
                   </div>
                   <div class="portfolio-info">
                     <div class="portfolio-links">
-                      <a href="requisitos.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 3"><i class="bx bx-plus"></i></a>
+                      <i class="bx bx-plus"></i>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div></a>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                     <div class="icon-box">
                         <img src="assets/img/resposta.jpg" height="150">
@@ -252,37 +256,40 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <a href="analise.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 4">
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                     <div class="icon-box">
                         <img src="assets/img/discussao.jpg" height="150">
                       <h4>Discussão e Análise</h4>
-                      <p style="color:black">Olhar para o sistema!</p>
+                      <!--<p style="color:black">Subtitle</p>-->
                   </div>
                   <div class="portfolio-info">
                     <div class="portfolio-links">
-                      <a href="discussao.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 5"><i class="bx bx-plus"></i></a>
+                    <i class="bx bx-plus"></i>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div></a>
 
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <a href="final.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 5">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
                     <div class="icon-box">
                         <img src="assets/img/final.jpg" height="150">
                       <h4>Diagramas de efeitos</h4>
-                      <p style="color:black">Sintetizando os resultados</p>
+                      <!--<p style="color:black">Subtitle</p>-->
                   </div>
                   <div class="portfolio-info">
                     <div class="portfolio-links">
-                      <a href="final.html" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Atividade 6"><i class="bx bx-plus"></i></a>
+                      <i class="bx bx-plus"></i>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div></a>
+
             </div>
 
           </div>
@@ -296,7 +303,7 @@
 
 
 
-    <!-- ======= Contact Section ======= -->
+    <!-- ======= Contact Section =======
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
@@ -323,7 +330,7 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section> End Contact Section -->
 
 
 
