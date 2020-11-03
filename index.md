@@ -303,7 +303,7 @@
 
 
 
-    <!-- ======= Contact Section =======
+    <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
@@ -324,13 +324,14 @@
             <div class="section-title">
               <h2>Feedback</h2>
             </div>
-            <p style="text-align:center;">Acesse o <a href="https://forms.gle/tWafutwxhV9Mxywh9" target="_blank">questionário</a> para avaliar o framework <b>Olhar Para o Sistema</b>.</p>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFxwCRuRzK2s892Sr8A5YuGycjmWgKcrfeL9hnCIJ9NXuvVQ/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+            <!--<p style="text-align:center;">Acesse o <a href="https://forms.gle/pmFvDVE8CNb5u9vx5" target="_blank">questionário</a> para avaliar o framework <b>Olhar Para o Sistema</b>.</p> -->
           </div>
 
         </div>
 
       </div>
-    </section> End Contact Section -->
+    </section> <!-- End Contact Section -->
 
 
 
